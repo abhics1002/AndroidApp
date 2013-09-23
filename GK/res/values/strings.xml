@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">GK</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">General Knowledge Quiz</string>
+    <string name="title_activity_test_questions">GK Quiz</string>
+    <string name="title_activity_view_score">Quiz Score</string>
+    <string name="title_activity_view_answers">Quiz Answers</string>
+    <string name="title_activity_splashstart">GENERAL KNOWLEDGE QUIZ</string>
+
+</resources>
